@@ -1,0 +1,18 @@
+body{
+   background-color: aquamarine;
+    background-image: url(background/jpeg);
+}
+h1{
+    color: deeppink;
+    font-family: cursive;
+    font-size: 60pt;
+}
+h2{
+    color: yellow;
+font-family: fantasy;
+}
+ul{
+    font-family: monospace;
+    color: darksalmon;
+    font-size: 50pt;
+}
